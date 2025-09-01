@@ -5,7 +5,7 @@ Este projeto é um aplicativo desenvolvido em React Native com o objetivo de mon
 ## 🚀 Tecnologias Utilizadas
 
 - [React Native](https://reactnative.dev/)
-- [Expo](https://expo.dev/) (se aplicável)
+- [Expo](https://expo.dev/) 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## 📦 Instalação
